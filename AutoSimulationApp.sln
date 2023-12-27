@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoSimulationApp", "AutoSimulationApp.csproj", "{F9CB6311-CAED-4FDE-B466-0AEB3848AF49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "..\UnitTest\UnitTest.csproj", "{29886F9B-2108-4DE2-926B-6A55925A1FDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9CB6311-CAED-4FDE-B466-0AEB3848AF49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9CB6311-CAED-4FDE-B466-0AEB3848AF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9CB6311-CAED-4FDE-B466-0AEB3848AF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9CB6311-CAED-4FDE-B466-0AEB3848AF49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29886F9B-2108-4DE2-926B-6A55925A1FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29886F9B-2108-4DE2-926B-6A55925A1FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29886F9B-2108-4DE2-926B-6A55925A1FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29886F9B-2108-4DE2-926B-6A55925A1FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F68FC4C5-F2DE-4CA2-B5E3-9F9AF1B32D33}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+E:\D drive\Jagmohan\Practise\AutoSimulationApp\bin\Debug\net8.0\AutoSimulationApp.exe
+E:\D drive\Jagmohan\Practise\AutoSimulationApp\bin\Debug\net8.0\AutoSimulationApp.deps.json
+E:\D drive\Jagmohan\Practise\AutoSimulationApp\bin\Debug\net8.0\AutoSimulationApp.runtimeconfig.json
+E:\D drive\Jagmohan\Practise\AutoSimulationApp\bin\Debug\net8.0\AutoSimulationApp.dll
+E:\D drive\Jagmohan\Practise\AutoSimulationApp\bin\Debug\net8.0\AutoSimulationApp.pdb
+E:\D drive\Jagmohan\Practise\AutoSimulationApp\obj\Debug\net8.0\AutoSimulationApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\D drive\Jagmohan\Practise\AutoSimulationApp\obj\Debug\net8.0\AutoSimulationApp.AssemblyInfoInputs.cache
+E:\D drive\Jagmohan\Practise\AutoSimulationApp\obj\Debug\net8.0\AutoSimulationApp.AssemblyInfo.cs
+E:\D drive\Jagmohan\Practise\AutoSimulationApp\obj\Debug\net8.0\AutoSimulationApp.csproj.CoreCompileInputs.cache
+E:\D drive\Jagmohan\Practise\AutoSimulationApp\obj\Debug\net8.0\AutoSimulationApp.dll
+E:\D drive\Jagmohan\Practise\AutoSimulationApp\obj\Debug\net8.0\refint\AutoSimulationApp.dll
+E:\D drive\Jagmohan\Practise\AutoSimulationApp\obj\Debug\net8.0\AutoSimulationApp.pdb
+E:\D drive\Jagmohan\Practise\AutoSimulationApp\obj\Debug\net8.0\AutoSimulationApp.genruntimeconfig.cache
+E:\D drive\Jagmohan\Practise\AutoSimulationApp\obj\Debug\net8.0\ref\AutoSimulationApp.dll

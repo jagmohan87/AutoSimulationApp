@@ -1,0 +1,4 @@
+E:\D drive\Jagmohan\Practise\AutoSimulationApp\obj\Debug\net5.0\AutoSimulationApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\D drive\Jagmohan\Practise\AutoSimulationApp\obj\Debug\net5.0\AutoSimulationApp.AssemblyInfoInputs.cache
+E:\D drive\Jagmohan\Practise\AutoSimulationApp\obj\Debug\net5.0\AutoSimulationApp.AssemblyInfo.cs
+E:\D drive\Jagmohan\Practise\AutoSimulationApp\obj\Debug\net5.0\AutoSimulationApp.csproj.CoreCompileInputs.cache
