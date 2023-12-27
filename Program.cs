@@ -26,7 +26,8 @@ namespace AutoDrivingCarSimulation
             //validate command 
             if (!IsCommandValid(start, currentPosition, nextMove))
             {
-                throw new Exception("Incorrect Command!");
+                Console.WriteLine("Invalid input!");
+                return;
             }
 
             // Set field dimensions
